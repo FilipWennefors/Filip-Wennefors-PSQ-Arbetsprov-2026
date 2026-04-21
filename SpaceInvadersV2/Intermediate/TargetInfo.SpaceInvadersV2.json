@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceInvadersV2",
+			"Path": "D:\\Github Repositories\\GameSampleProjects\\SpaceInvadersV2\\Source\\SpaceInvadersV2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceInvadersV2Editor",
+			"Path": "D:\\Github Repositories\\GameSampleProjects\\SpaceInvadersV2\\Source\\SpaceInvadersV2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

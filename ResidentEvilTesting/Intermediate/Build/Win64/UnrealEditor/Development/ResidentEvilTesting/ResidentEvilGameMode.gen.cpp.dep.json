@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\inc\\residenteviltesting\\uht\\residentevilgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\development\\residenteviltesting\\definitions.residenteviltesting.h",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\source\\residenteviltesting\\public\\residentevilgamemode.h",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\source\\residenteviltesting\\public\\checkpoint.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstart.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\navigationobjectbase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationobjectbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstart.generated.h",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\inc\\residenteviltesting\\uht\\checkpoint.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\inc\\residenteviltesting\\uht\\residentevilgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

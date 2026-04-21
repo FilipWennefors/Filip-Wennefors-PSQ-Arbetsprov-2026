@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\development\\residenteviltesting\\module.residenteviltesting.1_of_2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\development\\residenteviltesting\\definitions.residenteviltesting.h",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\source\\residenteviltesting\\private\\boolarray2d.cpp",
+            "c:\\users\\fwenn\\github repositories\\gamesampleprojects\\residenteviltesting\\source\\residenteviltesting\\public\\boolarray2d.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

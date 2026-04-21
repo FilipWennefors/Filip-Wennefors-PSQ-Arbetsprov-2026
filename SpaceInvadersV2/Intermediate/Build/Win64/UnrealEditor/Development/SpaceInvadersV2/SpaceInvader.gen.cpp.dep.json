@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersv2\\uht\\spaceinvader.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\spaceinvadersv2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\development\\spaceinvadersv2\\definitions.spaceinvadersv2.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\source\\spaceinvadersv2\\spaceinvader.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\source\\spaceinvadersv2\\bullet.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersv2\\uht\\bullet.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersv2\\uht\\spaceinvader.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

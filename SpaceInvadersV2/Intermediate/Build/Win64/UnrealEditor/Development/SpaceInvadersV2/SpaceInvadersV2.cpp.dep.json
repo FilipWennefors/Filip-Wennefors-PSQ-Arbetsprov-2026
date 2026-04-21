@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\source\\spaceinvadersv2\\spaceinvadersv2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\spaceinvadersv2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\development\\spaceinvadersv2\\definitions.spaceinvadersv2.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\source\\spaceinvadersv2\\spaceinvadersv2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

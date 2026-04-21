@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SpaceInvadersV2-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\SpaceInvadersV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\Barracks.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\Bullet.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\MainGameUI.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\PlayerShip.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvader.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersCameraManager.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersGameMode.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersV2.init.gen.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\Barracks.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\Bullet.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\MainGameUI.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\PlayerShip.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvader.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersCameraManager.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersGameMode.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\SpaceInvadersV2.cpp.obj"
+"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\Default.rc2.res"
+/OUT:"C:\Users\fwenn\Documents\Unreal Projects\SpaceInvadersV2\Intermediate\Build\Win64\UnrealEditor\Development\SpaceInvadersV2\UnrealEditor-SpaceInvadersV2-0005.lib"

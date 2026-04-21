@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github Repositories\\GameSampleProjects\\SpaceInvadersV2\\Source\\SpaceInvadersV2\\SpaceInvadersV2.Build.cs",
+		"D:\\Github Repositories\\GameSampleProjects\\SpaceInvadersV2\\Source\\SpaceInvadersV2.Target.cs",
+		"D:\\Github Repositories\\GameSampleProjects\\SpaceInvadersV2\\Source\\SpaceInvadersV2Editor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

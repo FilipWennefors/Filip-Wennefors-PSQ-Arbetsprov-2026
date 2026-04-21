@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersv2\\uht\\spaceinvadersgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\spaceinvadersv2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\development\\spaceinvadersv2\\definitions.spaceinvadersv2.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\source\\spaceinvadersv2\\spaceinvadersgamemode.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\fwenn\\documents\\unreal projects\\spaceinvadersv2\\intermediate\\build\\win64\\unrealeditor\\inc\\spaceinvadersv2\\uht\\spaceinvadersgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

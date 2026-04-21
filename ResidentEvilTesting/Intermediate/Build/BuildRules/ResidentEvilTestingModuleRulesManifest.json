@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTesting\\ResidentEvilTesting.Build.cs",
+		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTesting.Target.cs",
+		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTestingEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
