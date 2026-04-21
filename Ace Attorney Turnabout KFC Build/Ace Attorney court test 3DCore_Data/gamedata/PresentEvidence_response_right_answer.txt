@@ -1,0 +1,6 @@
+Phoenix "Right Here.(Presents KFC fryers)"
+Phoenix "TAKE THAT!"
+Phoenix "He took the Pollos Hermanos and disposed of them in the KFC fryers. And then fed them to unsuspecting customers. "
+Phoenix "Disposal was then practically the easiest thing in the world now that hundreds of people had consumed the bodies."
+Judge "What a devious plan! Making your own customers into unwitting companions to your crime!"
+NextNextCommand("Next")

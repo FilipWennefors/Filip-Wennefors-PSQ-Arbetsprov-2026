@@ -1,0 +1,15 @@
+Phoenix "The witness absolutely cannot be trusted at this moment!"
+
+Phoenix "Col. Sanders was in the very kitchen where the murder took place," 
+Phoenix "but as we established during the cross examination, he wasn’t paying attention to the kitchen itself too much."
+Phoenix "Therefore the possibility of Sanders being the killer is too large to ignore."
+
+Payne "But we’ve established with forensic evidence that the defendant was at the scene of the crime."
+
+Phoenix "But not in the kitchen. Remember that the entire kitchen was sanitized before the police arrived. Therefore we cannot prove that either went into the kitchen!"
+
+Judge "Hmm.. It appears that we are at an impasse here." 
+Judge "I admit that the defendant seems suspicious."
+Judge "But the colonel seems to warrant a further investigation. With that, court is adjourned for the day."
+
+NextNextCommand(next)
