@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88044fa96af10ad4398429859d3be10c, type: 3}
+  m_Name: Assault Rifle
+  m_EditorClassIdentifier: 
+  weaponName: Assault Rifle
+  damage: 10
+  clipSize: 35
+  ammo: 270
+  maxClipSize: 35
+  maxAmmo: 270
+  ammoPerReload: 1
+  ammoExpelledAtOnce: 1
+  fireRate: 0.1
+  reloadSpeed: 0
+  deploySpeed: 0
+  holsterSpeed: 1
+  range: 10000
+  weaponModel: {fileID: 7804048646005368463, guid: debf27143edb73b4495e720d146e023b, type: 3}
+  weaponAnimator: {fileID: 0}
+  weaponModelPos: {x: 0.77, y: -0.6, z: 2.03}
+  weaponModelScale: {x: 0.75, y: 0.75, z: 0.75}
+  weaponSound: {fileID: 8300000, guid: 67398ac81cf02964b8324ceaa3c534d4, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0
+  weaponObject: {fileID: 0}
+  weaponAudioSource: {fileID: 0}
+  weaponState: 0

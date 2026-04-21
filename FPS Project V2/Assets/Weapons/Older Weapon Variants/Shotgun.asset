@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88044fa96af10ad4398429859d3be10c, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  weaponName: Shotgun
+  damage: 10
+  clipSize: 6
+  ammo: 32
+  maxClipSize: 6
+  maxAmmo: 32
+  fireRate: 1
+  reloadDuration: 1
+  deploySpeed: 0
+  holsterSpeed: 1
+  range: 10000
+  weaponModel: {fileID: 7155949812494448820, guid: 4d829648f1897a145b4eb426799aef98, type: 3}
+  weaponModelPos: {x: 1.66, y: -1.29, z: 3.41}
+  weaponModelScale: {x: 1, y: 1, z: 1}
+  weaponSound: {fileID: 8300000, guid: 055b9b99eb093684ca6f8fd8beaec1fc, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0
+  weaponObject: {fileID: 0}

@@ -1,0 +1,2 @@
+Okay how this will be structured is that the court segment will use the command pattern. Cross exam will be a separate command and when a statement is pressed, we switch back to dialogue command which will
+go back to cross exam command. 

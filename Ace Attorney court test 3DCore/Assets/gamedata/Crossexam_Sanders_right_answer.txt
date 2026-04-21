@@ -1,0 +1,5 @@
+"OBJECTION!"
+Phoenix "There is no way you could’ve spotted the mark on the wall. Look at this map."
+Phoenix "KFC is located farther back than Pollos Hermanos. That means that from the KFC kitchen window, there would be no way to see the damaged wall."
+Col. Sanders "But then from where would I see the murder then?"
+NextNextCommand(next);

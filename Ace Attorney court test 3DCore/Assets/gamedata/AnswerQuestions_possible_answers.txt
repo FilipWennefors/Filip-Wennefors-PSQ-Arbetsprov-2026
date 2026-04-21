@@ -1,0 +1,3 @@
+The witness cannot be trusted
+The witness can be trusted
+The defense cannot be trusted

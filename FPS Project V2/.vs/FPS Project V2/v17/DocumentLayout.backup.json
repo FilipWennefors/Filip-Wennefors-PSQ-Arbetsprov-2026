@@ -1,0 +1,1317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fwenn\\FPS Project V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|c:\\users\\fwenn\\fps project v2\\assets\\scripts\\weapon related\\weaponusingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponusingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weaponstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\ammocratelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammocratelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weaponscriptableobject\\so_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponscriptableobject\\so_weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weaponscriptableobject\\so_singlefirehitscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponscriptableobject\\so_singlefirehitscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\enemy stuff\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weaponscriptableobject\\so_shotguns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponscriptableobject\\so_shotguns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weaponscriptableobject\\so_explosives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponscriptableobject\\so_explosives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weaponholsteringstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponholsteringstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\settingsmenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingsmenulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\[obsolete]weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\[obsolete]weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\effects\\sinewaveupdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\sinewaveupdownmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\effects\\facetowardsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\facetowardsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\effects\\explosionsphereeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effects\\explosionsphereeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\rocketprojectilelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rocketprojectilelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\closegamebuttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\closegamebuttonlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\playanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\playanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weapondeployingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weapondeployingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\weaponanimationstatemachinetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\weaponanimationstatemachinetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\circlevectortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\circlevectortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\playerhudlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\playerhudlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\enemy stuff\\ammodropmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\ammodropmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\disableonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disableonstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\gravitytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gravitytesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\navmeshutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmeshutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weaponwheeluilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponwheeluilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\weapon related\\weaponbarrelref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon related\\weaponbarrelref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\enemy stuff\\hitboxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\hitboxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\enemy stuff\\hitboxlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy stuff\\hitboxlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\weaponswitchdeployholstertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\weaponswitchdeployholstertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\SineWaveUpDownMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SineWaveUpDownMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\pseudovfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\pseudovfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\SO_Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SO_Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\weaponswitchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\weaponswitchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\FPS Project V2\\assets\\scripts\\potentially obsolete scripts\\testanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BFB372-866E-2D74-49DD-741ACD103F0D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potentially obsolete scripts\\testanimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponDeployingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\DisableOnStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DisableOnStart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchDeployHolsterTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponSwitchDeployHolsterTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HitboxHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HitboxLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\SO_Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SO_Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployedState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponDeployedState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHolsteringState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponHolsteringState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponAnimationStateMachineTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponAnimationStateMachineTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\TestAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TestAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponWheelLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelStateExperimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponWheelStateExperimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUsage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponUsage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponWheelUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponBarrelRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponBarrelRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponSwitchTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\WeaponUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\CircleVectorTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CircleVectorTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\GravityTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GravityTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\DashTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DashTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\PseudoVFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PseudoVFX.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreTextUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScoreTextUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\FaceTowardsPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FaceTowardsPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\AmmoCrateLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AmmoCrateLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponWheelUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponWheelUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHolsteringState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponHolsteringState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponUILogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponIdleState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponIdleState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponDeployingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponDeployingState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponBarrelRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponBarrelRef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WeaponState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\ExplosionSphereEffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ExplosionSphereEffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HitboxLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\AmmoDropManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AmmoDropManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HitboxManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\RudimentaryEnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RudimentaryEnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:12:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmmoCrateLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\AmmoCrateLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoCrateLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\AmmoCrateLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoCrateLogic.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADgvy0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:09:15.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Stuff\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Stuff\\EnemySpawner.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:37:46.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SO_Explosives.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Explosives.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponScriptableObject\\SO_Explosives.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Explosives.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponScriptableObject\\SO_Explosives.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:15:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SO_Shotguns.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Shotguns.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponScriptableObject\\SO_Shotguns.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Shotguns.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponScriptableObject\\SO_Shotguns.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:15:22.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SO_SingleFireHitscan.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_SingleFireHitscan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponScriptableObject\\SO_SingleFireHitscan.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_SingleFireHitscan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponScriptableObject\\SO_SingleFireHitscan.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:18:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeaponUsingState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponUsingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponUsingState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponUsingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponUsingState.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:12:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SO_Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponScriptableObject\\SO_Weapon.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponScriptableObject\\SO_Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponScriptableObject\\SO_Weapon.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:17:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponHolsteringState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponHolsteringState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponHolsteringState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponHolsteringState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponHolsteringState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:12:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:30:54.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:15:46.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:15:39.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsMenuLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\SettingsMenuLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenuLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\SettingsMenuLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsMenuLogic.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwC4AAAAyAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-07T12:57:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "[OBSOLETE]WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\[OBSOLETE]WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\[OBSOLETE]WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\[OBSOLETE]WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\[OBSOLETE]WeaponHandler.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwBgAAAAyAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-17T11:18:41.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\PlayAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\PlayAnimations.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\PlayAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\PlayAnimations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-08T14:15:45.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SineWaveUpDownMovement.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\SineWaveUpDownMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\SineWaveUpDownMovement.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\SineWaveUpDownMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\SineWaveUpDownMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T10:37:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FaceTowardsPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\FaceTowardsPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\FaceTowardsPlayer.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\FaceTowardsPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\FaceTowardsPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T10:37:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExplosionSphereEffects.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\ExplosionSphereEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\ExplosionSphereEffects.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Effects\\ExplosionSphereEffects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\ExplosionSphereEffects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T10:37:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RocketProjectileLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\RocketProjectileLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RocketProjectileLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\RocketProjectileLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RocketProjectileLogic.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAIEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-05T10:50:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeaponDeployingState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponDeployingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponDeployingState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponDeployingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponDeployingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T12:12:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CloseGameButtonLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\CloseGameButtonLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloseGameButtonLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\CloseGameButtonLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloseGameButtonLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-07T12:57:11.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerHudLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\PlayerHudLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\PlayerHudLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\PlayerHudLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\PlayerHudLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T12:12:10.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeaponAnimationStateMachineTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponAnimationStateMachineTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponAnimationStateMachineTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponAnimationStateMachineTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponAnimationStateMachineTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-08T14:15:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AmmoDropManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\AmmoDropManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Stuff\\AmmoDropManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\AmmoDropManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Stuff\\AmmoDropManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T10:37:48.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CircleVectorTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\CircleVectorTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\CircleVectorTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\CircleVectorTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\CircleVectorTest.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T15:25:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DisableOnStart.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\DisableOnStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DisableOnStart.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\DisableOnStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DisableOnStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-08T14:15:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GravityTesting.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\GravityTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GravityTesting.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\GravityTesting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GravityTesting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-17T12:13:35.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NavMeshUtils.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\NavMeshUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavMeshUtils.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\NavMeshUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavMeshUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-20T12:17:20.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeaponWheelUILogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponWheelUILogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponWheelUILogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponWheelUILogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponWheelUILogic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAABNAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-25T09:31:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HitboxManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\HitboxManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Stuff\\HitboxManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\HitboxManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Stuff\\HitboxManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB0AAABJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T12:12:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HitboxLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\HitboxLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Stuff\\HitboxLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Enemy Stuff\\HitboxLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Stuff\\HitboxLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T12:12:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeaponBarrelRef.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponBarrelRef.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon Related\\WeaponBarrelRef.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Weapon Related\\WeaponBarrelRef.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon Related\\WeaponBarrelRef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-28T12:12:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ExplosionSphereEffects.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\ExplosionSphereEffects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExplosionSphereEffects.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\ExplosionSphereEffects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExplosionSphereEffects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeaponSwitchDeployHolsterTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchDeployHolsterTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchDeployHolsterTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchDeployHolsterTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchDeployHolsterTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-08T14:14:54.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WeaponWheelUILogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponWheelUILogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponWheelUILogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponWheelUILogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponWheelUILogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponHandler.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "WeaponHolsteringState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHolsteringState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponHolsteringState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponHolsteringState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponHolsteringState.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "WeaponUILogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponUILogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponUILogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponUILogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponUILogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "WeaponIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponIdleState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponIdleState.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAnwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "WeaponDeployingState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponDeployingState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponDeployingState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponDeployingState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponDeployingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "WeaponBarrelRef.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponBarrelRef.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponBarrelRef.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponBarrelRef.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponBarrelRef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HitboxLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitboxLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitboxLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AmmoCrateLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\AmmoCrateLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\AmmoCrateLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\AmmoCrateLogic.cs",
+              "RelativeToolTip": "Assets\\AmmoCrateLogic.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:17:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RudimentaryEnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\RudimentaryEnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RudimentaryEnemyAI.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\RudimentaryEnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RudimentaryEnemyAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SineWaveUpDownMovement.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\SineWaveUpDownMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\SineWaveUpDownMovement.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\SineWaveUpDownMovement.cs",
+              "RelativeToolTip": "Assets\\SineWaveUpDownMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:17:20.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FaceTowardsPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\FaceTowardsPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FaceTowardsPlayer.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\FaceTowardsPlayer.cs",
+              "RelativeToolTip": "Assets\\FaceTowardsPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:17:20.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AmmoDropManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\AmmoDropManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoDropManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\AmmoDropManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoDropManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "HitboxManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitboxManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\HitboxManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitboxManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ScoreTextUI.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreTextUI.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreTextUI.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreTextUI.cs",
+              "RelativeToolTip": "Assets\\ScoreTextUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PseudoVFX.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\PseudoVFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\PseudoVFX.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\PseudoVFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\PseudoVFX.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-17T10:23:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "WeaponState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\WeaponState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:34.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GravityTesting.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\GravityTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\GravityTesting.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\GravityTesting.cs",
+              "RelativeToolTip": "Assets\\GravityTesting.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:29.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DashTesting.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\DashTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\DashTesting.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\DashTesting.cs",
+              "RelativeToolTip": "Assets\\DashTesting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PseudoVFX.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PseudoVFX.cs",
+              "RelativeDocumentMoniker": "Assets\\PseudoVFX.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PseudoVFX.cs",
+              "RelativeToolTip": "Assets\\PseudoVFX.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CircleVectorTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\CircleVectorTest.cs",
+              "RelativeDocumentMoniker": "Assets\\CircleVectorTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\CircleVectorTest.cs",
+              "RelativeToolTip": "Assets\\CircleVectorTest.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAGEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:13:36.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SO_Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\SO_Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SO_Weapon.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\SO_Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SO_Weapon.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAMwJYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:14:58.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WeaponSwitchTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\WeaponSwitchTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-05T13:51:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TestAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\TestAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potentially Obsolete Scripts\\TestAnimations.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\Scripts\\Potentially Obsolete Scripts\\TestAnimations.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Potentially Obsolete Scripts\\TestAnimations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-08T14:15:51.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WeaponWheelStateExperimentation.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelStateExperimentation.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponWheelStateExperimentation.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelStateExperimentation.cs",
+              "RelativeToolTip": "Assets\\WeaponWheelStateExperimentation.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WeaponUsage.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUsage.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponUsage.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUsage.cs",
+              "RelativeToolTip": "Assets\\WeaponUsage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WeaponWheelLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponWheelLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelLogic.cs",
+              "RelativeToolTip": "Assets\\WeaponWheelLogic.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WeaponWheelUILogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelUILogic.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponWheelUILogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponWheelUILogic.cs",
+              "RelativeToolTip": "Assets\\WeaponWheelUILogic.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WeaponBarrelRef.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponBarrelRef.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponBarrelRef.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponBarrelRef.cs",
+              "RelativeToolTip": "Assets\\WeaponBarrelRef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WeaponSwitchTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchTest.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponSwitchTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchTest.cs",
+              "RelativeToolTip": "Assets\\WeaponSwitchTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WeaponUILogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUILogic.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponUILogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponUILogic.cs",
+              "RelativeToolTip": "Assets\\WeaponUILogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:15:23.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WeaponDeployingState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployingState.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponDeployingState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployingState.cs",
+              "RelativeToolTip": "Assets\\WeaponDeployingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WeaponDeployedState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployedState.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponDeployedState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponDeployedState.cs",
+              "RelativeToolTip": "Assets\\WeaponDeployedState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "WeaponHolsteringState.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHolsteringState.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponHolsteringState.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHolsteringState.cs",
+              "RelativeToolTip": "Assets\\WeaponHolsteringState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeaponAnimationStateMachineTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponAnimationStateMachineTest.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponAnimationStateMachineTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponAnimationStateMachineTest.cs",
+              "RelativeToolTip": "Assets\\WeaponAnimationStateMachineTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PlayAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayAnimations.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayAnimations.cs",
+              "RelativeToolTip": "Assets\\PlayAnimations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TestAnimations.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\TestAnimations.cs",
+              "RelativeDocumentMoniker": "Assets\\TestAnimations.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\TestAnimations.cs",
+              "RelativeToolTip": "Assets\\TestAnimations.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:14:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DisableOnStart.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\DisableOnStart.cs",
+              "RelativeDocumentMoniker": "Assets\\DisableOnStart.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\DisableOnStart.cs",
+              "RelativeToolTip": "Assets\\DisableOnStart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\WeaponHandler.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeaponSwitchDeployHolsterTest.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchDeployHolsterTest.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponSwitchDeployHolsterTest.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\WeaponSwitchDeployHolsterTest.cs",
+              "RelativeToolTip": "Assets\\WeaponSwitchDeployHolsterTest.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowIcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HitboxHandler.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\HitboxHandler.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxHandler.cs",
+              "RelativeToolTip": "Assets\\HitboxHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HitboxLogic.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\HitboxLogic.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\HitboxLogic.cs",
+              "RelativeToolTip": "Assets\\HitboxLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SO_Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\SO_Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\SO_Weapon.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\SO_Weapon.cs",
+              "RelativeToolTip": "Assets\\SO_Weapon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
+              "ToolTip": "C:\\Users\\fwenn\\FPS Project V2\\Assets\\CameraController.cs",
+              "RelativeToolTip": "Assets\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:46:49.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Coding specifics cross examination
+
+Okay what we need to do is we have a hypothetical infinite number of statements that upon q being pressed, needs to play a extended explanation. This means a separate dialogue file
+
+How this will probably be implemented is that when cross exam starts, the command pattern instantiates all the commands numerically, Entercrossexam command will accept a number of dialogue files and then 
+switch to cross exam. when that happens, we set currentline to 1 and will use it to determine which command in the order to execute.
+
+Second requirement is the player needs to be able to present evidence. Entercrossexam command will feed in correct evidence and the appropriate line. If they match, the exit dialogue file will be used. 
+Otherwhise the fail dialogue file will be used and the game will return to the statement on before
+
+Evidence is all stored in a list of classes kinda like we did with bullets in 2d games. Metaphorical bullets of evidence! (Wait, are we still talking Ace Attorney)
+
+public class evidence
+{
+	string name
+	string description
+	texture2d profilePicture
+	list<texture2d> inspected;//for images which are sometimes 2 different ones. Essentially easier to do.
+}

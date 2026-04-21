@@ -1,0 +1,7 @@
+Phoenix "Right here."
+Phoenix "Inside Los Pollos Hermanos, where the murder took place!"
+"TAKE THAT!"
+Col. Sanders "OUCH!!"
+Payne "OBJECTION!"
+Payne "But where would the colonel dispose of such massive chickens?"
+NextNextCommand(next)

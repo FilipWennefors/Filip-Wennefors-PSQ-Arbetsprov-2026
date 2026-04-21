@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fwenn\\DANGANKANJI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|c:\\users\\fwenn\\dangankanji\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\DANGANKANJI\\assets\\invaderswidthtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\invaderswidthtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\DANGANKANJI\\assets\\kanjiassembledcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\kanjiassembledcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|C:\\Users\\fwenn\\DANGANKANJI\\assets\\smoothfunctiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BC5A08-B36A-401C-7628-E9E62DB81EF5}|Assembly-CSharp.csproj|solutionrelative:assets\\smoothfunctiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAUwKIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:21:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvadersWidthTester.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\InvadersWidthTester.cs",
+              "RelativeDocumentMoniker": "Assets\\InvadersWidthTester.cs",
+              "ToolTip": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\InvadersWidthTester.cs",
+              "RelativeToolTip": "Assets\\InvadersWidthTester.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:26:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanjiAssembledCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\KanjiAssembledCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\KanjiAssembledCanvas.cs",
+              "ToolTip": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\KanjiAssembledCanvas.cs",
+              "RelativeToolTip": "Assets\\KanjiAssembledCanvas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:31:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmoothFunctionTester.cs",
+              "DocumentMoniker": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\SmoothFunctionTester.cs",
+              "RelativeDocumentMoniker": "Assets\\SmoothFunctionTester.cs",
+              "ToolTip": "C:\\Users\\fwenn\\DANGANKANJI\\Assets\\SmoothFunctionTester.cs",
+              "RelativeToolTip": "Assets\\SmoothFunctionTester.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAjwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:26:34.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

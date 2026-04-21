@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88044fa96af10ad4398429859d3be10c, type: 3}
+  m_Name: Railgun
+  m_EditorClassIdentifier: 
+  weaponName: Railgun
+  damage: 100
+  clipSize: 1
+  ammo: 16
+  maxClipSize: 1
+  maxAmmo: 16
+  fireRate: 1
+  reloadDuration: 1
+  deploySpeed: 0
+  holsterSpeed: 1
+  range: 10000
+  weaponModel: {fileID: 4718502732066231601, guid: 9b7ef2a627ab80c428d600294dd49a34, type: 3}
+  weaponModelPos: {x: 0.76, y: -0.81, z: 1.2}
+  weaponModelScale: {x: 0.9, y: 0.9, z: 0.9}
+  weaponSound: {fileID: 8300000, guid: 993567f98d140634e957eb5d792529d4, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0.5729945
+  weaponObject: {fileID: 0}

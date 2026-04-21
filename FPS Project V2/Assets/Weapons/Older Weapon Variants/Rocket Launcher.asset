@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88044fa96af10ad4398429859d3be10c, type: 3}
+  m_Name: Rocket Launcher
+  m_EditorClassIdentifier: 
+  weaponName: Rocket Launcher
+  damage: 10
+  clipSize: 4
+  ammo: 20
+  maxClipSize: 4
+  maxAmmo: 20
+  ammoPerReload: 1
+  ammoExpelledAtOnce: 1
+  fireRate: 1
+  reloadSpeed: 0
+  deploySpeed: 0
+  holsterSpeed: 1
+  range: 10000
+  weaponModel: {fileID: 3612612087581694275, guid: 07c5f3d3bb5ab5644b977a38665526f8, type: 3}
+  weaponAnimator: {fileID: 0}
+  weaponModelPos: {x: 0.74, y: -0.21, z: 0.53}
+  weaponModelScale: {x: 0.55, y: 0.55, z: 0.55}
+  weaponSound: {fileID: 8300000, guid: 64abc654d5414474a92c3d848d16ce23, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0
+  weaponObject: {fileID: 0}
+  weaponAudioSource: {fileID: 0}
+  weaponState: 0

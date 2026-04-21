@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8bf812c3fc350c42b67858aa5fe4cbf, type: 3}
+  m_Name: '[Test Ver 2] Railgun'
+  m_EditorClassIdentifier: 
+  weaponName: Railgun
+  damage: 50
+  clipSize: 1
+  ammo: 16
+  maxClipSize: 1
+  maxAmmo: 16
+  ammoPerReload: 1
+  ammoExpelledAtOnce: 1
+  fireRate: 1
+  reloadSpeed: 1
+  deploySpeed: 0.25
+  holsterSpeed: 0.25
+  range: 10000
+  weaponModel: {fileID: 7635682516228336013, guid: 8053a2b9321f3c741919327164b213d7, type: 3}
+  weaponModelPos: {x: 0, y: 0, z: 0}
+  weaponModelScale: {x: 1, y: 1, z: 1}
+  fireSound: {fileID: 8300000, guid: 993567f98d140634e957eb5d792529d4, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0
+  weaponObject: {fileID: 0}
+  weaponBarrel: {fileID: 0}
+  audioSource: {fileID: 0}
+  animator: {fileID: 0}
+  mainCam: {fileID: 0}
+  weaponState: 0
+  excludePlayerMask:
+    serializedVersion: 2
+    m_Bits: 247
+  incrementCount: 16
+  crosshairRadius: 25

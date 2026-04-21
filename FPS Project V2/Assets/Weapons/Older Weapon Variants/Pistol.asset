@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88044fa96af10ad4398429859d3be10c, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  damage: 10
+  clipSize: 12
+  ammo: 36
+  maxClipSize: 12
+  maxAmmo: 36
+  fireRate: 1
+  reloadDuration: 1
+  deploySpeed: 1
+  holsterSpeed: 1
+  range: 10000
+  weaponModel: {fileID: 5205960364620183135, guid: 6c731d0e4276a884b9d78897f4752529, type: 3}
+  weaponAnimator: {fileID: 0}
+  weaponModelPos: {x: 1.44, y: -1.19, z: 2.19}
+  weaponModelScale: {x: 0.29, y: 0.29, z: 0.29}
+  weaponSound: {fileID: 8300000, guid: 67398ac81cf02964b8324ceaa3c534d4, type: 3}
+  deployTimeElapsed: 0
+  holsterTimeElapsed: 0
+  weaponObject: {fileID: 0}
+  weaponState: 0

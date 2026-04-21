@@ -1,0 +1,9 @@
+Coding specifics Command Pattern AA recreation
+
+How the game will be structured is that everything is a command executed by the command pattern. So if it’s in dialogue, Dialogue Command will be executed, if we’re prompted to select an answer, that command will be active. So everything in court will be structured around that.
+
+Commands will be added to a list. When a command is finished, an event will be fired off that causes the command pattern to execute the next command
+
+If the game is in cross exam mode, we first add the cross exam command to the list. Then we add all presses. So when someone presses statement 3, we calculate where in that list statement 3 is and then executes it. 
+
+This will allow separate logic to be used while also letting us execute previous commands easy making this a cleaner implementation than a state machine

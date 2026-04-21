@@ -1,0 +1,29 @@
+Phoenix "OBJECTION!"
+Phoenix "Take a look at the Los Pollos Hermanos menu here. I think there’s something very telling about it."
+Col. Sanders "How so?"
+Phoenix "Just look at it"
+Col. Sanders "Breakfasts: Rancheros, Chicken biscuit, Rio Grande Burrito, Vegetarian Burrito[NEW]"
+Col. Sanders "Lunches: Pollos by the Bucket, Chicken Wrap, Macho Burrito Grande[NEW]"
+Col. Sanders "Desserts: Churros, Ice Cream, Milkshake(Chocolate, Vanilla, Cherry[NEW])"
+Col. Sanders "Sides: Fries, Taco, Enchilada, Rice, Corn dog[NEW]"
+
+Judge "My god what a delectable set of items!"
+
+Phoenix "Notice something absent from the menu"
+
+Col. Sanders "Uhh… not really, except for maybe my delicious Sanders BBQ chicken burgers!"
+
+Phoenix "There were several items added to the menu, but there was one thing not added to it: "
+
+Judge "What is it, is it gravy?"
+
+Phoenix "Exactly, your honor! That means the colonel couldn’t have seen the chickens making gravy in the kitchen at the time of the murder!"
+Col. Sanders "urrg.."
+
+Judge "It appears the colonel is less trusty than we expected."
+
+Payne "The testimony still stands. The witness saw the defendant commit the murder. What the colonel was doing whilst witnessing the crime is irrelevant"
+
+Phoenix "(thinking): But is the witness’ account of the murder trustworthy? The answer must be.."
+
+NextNextCommand("next")

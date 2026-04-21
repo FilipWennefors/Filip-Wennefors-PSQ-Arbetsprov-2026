@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aca832d4698ed44096df73ff73a6e55, type: 3}
+  m_Name: Kanji_Ichi
+  m_EditorClassIdentifier: 
+  strokes:
+  - {fileID: 21300000, guid: c63c2206636e7394f96e8978b9e84706, type: 3}
+  JapaneseCharacter: "\u4E00"
+  englishMeaning: One
+  chineseReading: Ichi
+  japaneseReading: Hito
