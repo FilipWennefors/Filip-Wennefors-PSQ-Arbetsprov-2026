@@ -15,7 +15,7 @@
 // Sets default values
 ABaseEnemy::ABaseEnemy()
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
 	playerTakedownIndicator = CreateDefaultSubobject<UWidgetComponent>(TEXT("Player Takedown Indicator"));
@@ -23,7 +23,7 @@ ABaseEnemy::ABaseEnemy()
 	playerTakedownIndicator->SetVisibility(false);
 
 	pawnCollisionResponses = GetMesh()->GetCollisionResponseToChannels();
-	
+
 }
 
 UAnimMontage* ABaseEnemy::GetMeleeAttackAnimMontage()
@@ -89,8 +89,8 @@ void ABaseEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 	FVector takedownIndicatorPosition = playerTakedownIndicator->GetComponentLocation();
-	FVector playerCameraLocation =GetWorld()->GetFirstPlayerController()->PlayerCameraManager->GetCameraLocation();
-	
+	FVector playerCameraLocation = GetWorld()->GetFirstPlayerController()->PlayerCameraManager->GetCameraLocation();
+
 	FRotator lookAtRotation = UKismetMathLibrary::FindLookAtRotation(takedownIndicatorPosition, playerCameraLocation);
 	playerTakedownIndicator->SetWorldRotation(lookAtRotation);
 
@@ -109,12 +109,12 @@ void ABaseEnemy::SetCollisionResponseToPawn()
 float ABaseEnemy::TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser)
 {
 	//TODO: Cast FDamageEvent to point damage event and get any potential damage multipliers from hitboxes
-	
+
 	health -= DamageAmount;
 	if (health <= 0 && !bIsKilled)
 		KillEnemy();
-	
-	
+
+
 	return Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
 }
 
@@ -145,23 +145,23 @@ void ABaseEnemy::DisableStunEffect()
 	bIsStunned = false;
 	GetCharacterMovement()->SetMovementMode(MOVE_Walking);
 }
-float ABaseEnemy::CalculateStaggerChance( float staggerDamageDealt, float minDamageStaggerThreshold, float guaranteedStaggerDamageThreshold, float minStaggerChance)
+float ABaseEnemy::CalculateStaggerChance(float staggerDamageDealt, float minDamageStaggerThreshold, float guaranteedStaggerDamageThreshold, float minStaggerChance)
 {
 	/* How this function works is the following:
 	 * There is a math function written as f(x) = p+(1-p) * x where p is the start value that goes from p to 1 in the y axis over 1 unit in the x axis.
 	 * This function uses it to calculate a damage percentage where if the damage passes a threshold to stagger, it will use it to calculate an escalating chance to stagger
 	 */
 
-	//Here we start by calculating how much of the damage is above the stagger threshold
+	 //Here we start by calculating how much of the damage is above the stagger threshold
 	float damageAboveThreshold = staggerDamageDealt - minDamageStaggerThreshold;
 
 	//This is basically the x value for the math function f(x)
 	float factorToGuaranteedStagger = damageAboveThreshold / (guaranteedStaggerDamageThreshold - minDamageStaggerThreshold);
-	factorToGuaranteedStagger	= FMath::Clamp(factorToGuaranteedStagger, 0.f, 1.f); //So we don't feed in a value larger than 1 as the x value
-	
+	factorToGuaranteedStagger = FMath::Clamp(factorToGuaranteedStagger, 0.f, 1.f); //So we don't feed in a value larger than 1 as the x value
+
 	float _minStaggerChance = FMath::Clamp(minStaggerChance, 0.f, 100.f) / 100.f; 	//In case the stagger chance ends up above 100% so it doesn't break shit
 	//Finally for the pièce de résistance of this calculation, f(x) = p+(1-p) * x
-	float staggerChance = (_minStaggerChance + (1 - _minStaggerChance)* factorToGuaranteedStagger) * 100.f;
+	float staggerChance = (_minStaggerChance + (1 - _minStaggerChance) * factorToGuaranteedStagger) * 100.f;
 	return staggerChance;
 }
 
@@ -210,7 +210,8 @@ bool ABaseEnemy::GetIsTakedownable()
 		return true;
 	if (_bCanDetectPlayer || IsPlayerInFront() || bIsLyingDown) //We don't wanna backstab enemies lying on the floor
 		return false;
-	else return true;
+	return false; //Commented out to disable backstabbing because it's buggy AF and it will take too long to fix.
+	//else return true;
 }
 
 ETakedownType ABaseEnemy::GetTakedownType()
@@ -219,11 +220,14 @@ ETakedownType ABaseEnemy::GetTakedownType()
 		return ETakedownType::NONE;
 	if (bIsStaggered)
 		return  ETakedownType::RoundhouseKick;
-	if (!_bCanDetectPlayer && !IsPlayerInFront() && !bIsLyingDown)
-		return ETakedownType::Backstab;
+
+	//commented out to disable backstabbing because it's buggy AF and it will take too long to fix.
+
+	//if (!_bCanDetectPlayer && !IsPlayerInFront() && !bIsLyingDown)
+		//return ETakedownType::Backstab;
 	else
 		return ETakedownType::NONE;
-		
+
 }
 bool ABaseEnemy::IsPlayerInFront()
 {
@@ -232,7 +236,7 @@ bool ABaseEnemy::IsPlayerInFront()
 
 	FTransform enemyTransform = GetActorTransform();
 	FTransform playerTransform = GetWorld()->GetFirstPlayerController()->GetPawn()->GetActorTransform();
-	
+
 	FTransform playerRelativeToEnemy = playerTransform.GetRelativeTransform(enemyTransform);
 
 	if (playerRelativeToEnemy.GetLocation().X > 0.f)

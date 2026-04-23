@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DrawBoxUtilityEditor.cpp.obj": [
+			"DrawBoxUtilityEditor.cpp.obj",
+			"VisualizationBoxVisualizer.cpp.obj"
+		]
+	}
+}

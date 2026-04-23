@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DrawBoxUtilityEditor-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fwenn\Desktop\ResidentEvilTesting\Intermediate\Build\Win64\ResidentEvilTestingEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\fwenn\Desktop\ResidentEvilTesting\Plugins\DrawBoxUtility\Intermediate\Build\Win64\UnrealEditor\Development\DrawBoxUtilityEditor\Module.DrawBoxUtilityEditor.cpp.obj"
+"C:\Users\fwenn\Desktop\ResidentEvilTesting\Plugins\DrawBoxUtility\Intermediate\Build\Win64\UnrealEditor\Development\DrawBoxUtilityEditor\Default.rc2.res"
+/OUT:"C:\Users\fwenn\Desktop\ResidentEvilTesting\Plugins\DrawBoxUtility\Intermediate\Build\Win64\UnrealEditor\Development\DrawBoxUtilityEditor\UnrealEditor-DrawBoxUtilityEditor-0001.lib"

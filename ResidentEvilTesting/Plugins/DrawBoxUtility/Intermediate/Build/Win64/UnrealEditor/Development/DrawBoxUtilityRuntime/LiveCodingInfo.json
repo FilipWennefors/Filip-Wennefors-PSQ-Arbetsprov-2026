@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DrawBoxUtilityRuntime.cpp.obj": [
+			"DrawBoxUtilityRuntime.init.gen.cpp.obj",
+			"VisualizationBox.gen.cpp.obj",
+			"DrawBoxUtilityRuntime.cpp.obj",
+			"VisualizationBox.cpp.obj"
+		]
+	}
+}

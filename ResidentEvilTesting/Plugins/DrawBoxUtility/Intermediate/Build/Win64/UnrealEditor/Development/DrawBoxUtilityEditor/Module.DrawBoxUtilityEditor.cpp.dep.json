@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityeditor\\module.drawboxutilityeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\desktop\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityeditor\\definitions.drawboxutilityeditor.h",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityeditor\\private\\drawboxutilityeditor.cpp",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityeditor\\public\\drawboxutilityeditor.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\unrealedglobals.h",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\public\\visualizationbox.h",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\visualizationbox.generated.h",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityeditor\\public\\visualizationboxvisualizer.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\componentvisualizer.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\componentvisualizer.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\editor\\unrealedengine.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\ipackageautosaver.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolprovider.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangelist.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolchangeliststate.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontroloperation.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\public\\componentvisualizermanager.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\editor\\unrealed\\classes\\editor\\templatemapinfo.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\templatemapinfo.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\unrealedengine.generated.h",
+            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityeditor\\private\\visualizationboxvisualizer.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
