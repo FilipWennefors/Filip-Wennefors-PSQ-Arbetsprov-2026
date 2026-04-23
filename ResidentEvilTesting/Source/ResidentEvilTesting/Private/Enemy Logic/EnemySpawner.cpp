@@ -35,34 +35,34 @@ bool AEnemySpawner::IsEnemySpawnerOnScreen()
 	
 	//Check all the points after getting the required variables
 	FVector	leftTopForward = FVector(radius, radius, halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, leftTopForward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, leftTopForward))
 		return true;
 	
 	FVector	leftTopBackward = FVector(-radius, radius, halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, leftTopBackward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, leftTopBackward))
 		return true;
 	
 	FVector	leftBottomForward =	FVector(radius, radius, -halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, leftBottomForward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, leftBottomForward))
 		return true;
 	FVector	leftBottomBackward = FVector(-radius, radius, -halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, leftBottomBackward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, leftBottomBackward))
 		return true;
 	
 	FVector	rightTopForward = FVector(radius, -radius, halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, rightTopForward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, rightTopForward))
 		return true;
 	
 	FVector	rightTopBackward = FVector(-radius, -radius, halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, rightTopBackward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, rightTopBackward))
 		return true;
 	
 	FVector	rightBottomForward = FVector(radius, -radius, -halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, rightBottomForward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, rightBottomForward))
 		return true;
 	
 	FVector	rightBottomBackward	= FVector(-radius, -radius, -halfHeight) + capsuleOrigin;
-	if (UGeneralUtilities::CheckIfPointOnScreen(playerController, rightBottomBackward))
+	if (UGeneralUtilities::CheckIfPositionOnScreen(playerController, rightBottomBackward))
 		return true;
 
 	return false;

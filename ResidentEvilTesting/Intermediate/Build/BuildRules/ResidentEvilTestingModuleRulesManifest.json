@@ -1,8 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTesting\\ResidentEvilTesting.Build.cs",
-		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTesting.Target.cs",
-		"C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTestingEditor.Target.cs"
+		"C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Source\\ResidentEvilTesting\\ResidentEvilTesting.Build.cs",
+		"C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Plugins\\DrawBoxUtility\\Source\\DrawBoxUtilityEditor\\DrawBoxUtilityEditor.Build.cs",
+		"C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Plugins\\DrawBoxUtility\\Source\\DrawBoxUtilityRuntime\\DrawBoxUtilityRuntime.Build.cs",
+		"C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Source\\ResidentEvilTesting.Target.cs",
+		"C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Source\\ResidentEvilTestingEditor.Target.cs"
 	],
 	"EngineVersion": "5.1.1"
 }

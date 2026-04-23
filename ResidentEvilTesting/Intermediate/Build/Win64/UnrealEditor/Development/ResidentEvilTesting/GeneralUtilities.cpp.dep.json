@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\source\\residenteviltesting\\private\\generalutilities.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\development\\residenteviltesting\\definitions.residenteviltesting.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\source\\residenteviltesting\\public\\generalutilities.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\intermediate\\build\\win64\\unrealeditor\\inc\\residenteviltesting\\uht\\generalutilities.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\games egs\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

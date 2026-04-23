@@ -23,19 +23,16 @@ public:
 	 */
 	UFUNCTION(BlueprintCallable, BlueprintPure, Category = "GeneralUtilities")
 	static bool IsActorInFront(AActor* actor, AActor* inFrontOfActor);
-
-	UFUNCTION(BlueprintCallable, BlueprintPure, Category = "GeneralUtilities")
-	static bool IsActorOnScreen(AActor* actor);
 	
 	/** 
-	 * Checks if a specified 2D screen position is on the player's screen
+	 * Checks if a specified world position is on the player's screen
 	 *
 	 * @param		playerController	The controller for the player whose screen is supposed to be checked
-	 * @param		pointToCheck		The point to check whether it is on the player screen 
+	 * @param		positionToCheck		The position to check whether it is on the player screen 
 	 * @return		true if the point is located on the player's screen
 	*/
 	UFUNCTION(BlueprintCallable, BlueprintPure, Category = "GeneralUtilities")
-	static bool CheckIfPointOnScreen(APlayerController* playerController, FVector pointToCheck);
+	static bool CheckIfPositionOnScreen(APlayerController* playerController, FVector positionToCheck);
 	
 	/** 
 	 * This function takes in an array of actors and returns the one which is closest to the specified position

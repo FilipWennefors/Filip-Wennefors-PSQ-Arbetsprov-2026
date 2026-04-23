@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ResidentEvilTesting",
-			"Path": "C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTesting.Target.cs",
+			"Path": "C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Source\\ResidentEvilTesting.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ResidentEvilTestingEditor",
-			"Path": "C:\\Users\\fwenn\\Github Repositories\\GameSampleProjects\\ResidentEvilTesting\\Source\\ResidentEvilTestingEditor.Target.cs",
+			"Path": "C:\\Users\\fwenn\\Documents\\Github\\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\\ResidentEvilTesting\\Source\\ResidentEvilTestingEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

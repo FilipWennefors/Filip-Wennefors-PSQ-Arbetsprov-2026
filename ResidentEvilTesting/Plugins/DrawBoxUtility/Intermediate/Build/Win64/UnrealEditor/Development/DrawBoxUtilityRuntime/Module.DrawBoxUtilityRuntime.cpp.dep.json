@@ -1,18 +1,18 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityruntime\\module.drawboxutilityruntime.cpp",
+        "Source": "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityruntime\\module.drawboxutilityruntime.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\fwenn\\desktop\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\intermediate\\build\\win64\\residenteviltestingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityruntime\\definitions.drawboxutilityruntime.h",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\drawboxutilityruntime.init.gen.cpp",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\visualizationbox.gen.cpp",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\public\\visualizationbox.h",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\visualizationbox.generated.h",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\private\\drawboxutilityruntime.cpp",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\public\\drawboxutilityruntime.h",
-            "c:\\users\\fwenn\\desktop\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\private\\visualizationbox.cpp"
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\development\\drawboxutilityruntime\\definitions.drawboxutilityruntime.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\drawboxutilityruntime.init.gen.cpp",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\visualizationbox.gen.cpp",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\public\\visualizationbox.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\intermediate\\build\\win64\\unrealeditor\\inc\\drawboxutilityruntime\\uht\\visualizationbox.generated.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\private\\drawboxutilityruntime.cpp",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\public\\drawboxutilityruntime.h",
+            "c:\\users\\fwenn\\documents\\github\\filip-wennefors-psq-arbetsprov-2026-testing\\residenteviltesting\\plugins\\drawboxutility\\source\\drawboxutilityruntime\\private\\visualizationbox.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

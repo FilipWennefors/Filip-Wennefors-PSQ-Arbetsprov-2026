@@ -413,14 +413,18 @@ bool APlayerCharacter::IsEnemyTakedownable(AActor& Context)
 //Since both IInteractable interface and AInteractableObject is used in the game it needs to support both
 bool APlayerCharacter::IsActorInteractable(AActor& Context)
 {
+	AActor* actor = &Context;
+
+	//We dont wanna interact with interactables not on the screen
+	if (!UGeneralUtilities::CheckIfPositionOnScreen(actor->GetWorld()->GetFirstPlayerController(), actor->GetActorLocation()))
+		return false;
+	
 	if(Context.GetClass()->ImplementsInterface(UInteractable::StaticClass()))
 	{
-		AActor* actor = &Context;
 		if (IInteractable::Execute_CanInteractWithObject(actor))
 			return true;
 	}
 	//Check for implementing AActor interactable class
-	AActor* actor = &Context;
 	AInteractableObject* interactableObject = Cast<AInteractableObject>(actor);
 	if (IsValid(interactableObject))
 	{

@@ -70,5 +70,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=ResidentEvilTesting
-/fo "C:\Users\fwenn\Desktop\ResidentEvilTesting\Plugins\DrawBoxUtility\Intermediate\Build\Win64\UnrealEditor\Development\DrawBoxUtilityRuntime\Default.rc2.res"
+/fo "C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Plugins\DrawBoxUtility\Intermediate\Build\Win64\UnrealEditor\Development\DrawBoxUtilityRuntime\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

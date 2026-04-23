@@ -26,21 +26,13 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 		*(AActor**)Z_Param__Result=UGeneralUtilities::FindClosestActor(Z_Param_actors,Z_Param_closestTo);
 		P_NATIVE_END;
 	}
-	DEFINE_FUNCTION(UGeneralUtilities::execCheckIfPointOnScreen)
+	DEFINE_FUNCTION(UGeneralUtilities::execCheckIfPositionOnScreen)
 	{
 		P_GET_OBJECT(APlayerController,Z_Param_playerController);
-		P_GET_STRUCT(FVector,Z_Param_pointToCheck);
+		P_GET_STRUCT(FVector,Z_Param_positionToCheck);
 		P_FINISH;
 		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=UGeneralUtilities::CheckIfPointOnScreen(Z_Param_playerController,Z_Param_pointToCheck);
-		P_NATIVE_END;
-	}
-	DEFINE_FUNCTION(UGeneralUtilities::execIsActorOnScreen)
-	{
-		P_GET_OBJECT(AActor,Z_Param_actor);
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=UGeneralUtilities::IsActorOnScreen(Z_Param_actor);
+		*(bool*)Z_Param__Result=UGeneralUtilities::CheckIfPositionOnScreen(Z_Param_playerController,Z_Param_positionToCheck);
 		P_NATIVE_END;
 	}
 	DEFINE_FUNCTION(UGeneralUtilities::execIsActorInFront)
@@ -56,23 +48,22 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 	{
 		UClass* Class = UGeneralUtilities::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
-			{ "CheckIfPointOnScreen", &UGeneralUtilities::execCheckIfPointOnScreen },
+			{ "CheckIfPositionOnScreen", &UGeneralUtilities::execCheckIfPositionOnScreen },
 			{ "FindClosestActor", &UGeneralUtilities::execFindClosestActor },
 			{ "IsActorInFront", &UGeneralUtilities::execIsActorInFront },
-			{ "IsActorOnScreen", &UGeneralUtilities::execIsActorOnScreen },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
-	struct Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics
+	struct Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics
 	{
-		struct GeneralUtilities_eventCheckIfPointOnScreen_Parms
+		struct GeneralUtilities_eventCheckIfPositionOnScreen_Parms
 		{
 			APlayerController* playerController;
-			FVector pointToCheck;
+			FVector positionToCheck;
 			bool ReturnValue;
 		};
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_playerController;
-		static const UECodeGen_Private::FStructPropertyParams NewProp_pointToCheck;
+		static const UECodeGen_Private::FStructPropertyParams NewProp_positionToCheck;
 		static void NewProp_ReturnValue_SetBit(void* Obj);
 		static const UECodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
@@ -81,33 +72,33 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 #endif
 		static const UECodeGen_Private::FFunctionParams FuncParams;
 	};
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_playerController = { "playerController", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(GeneralUtilities_eventCheckIfPointOnScreen_Parms, playerController), Z_Construct_UClass_APlayerController_NoRegister, METADATA_PARAMS(nullptr, 0) };
-	const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_pointToCheck = { "pointToCheck", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(GeneralUtilities_eventCheckIfPointOnScreen_Parms, pointToCheck), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(nullptr, 0) };
-	void Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_ReturnValue_SetBit(void* Obj)
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_playerController = { "playerController", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(GeneralUtilities_eventCheckIfPositionOnScreen_Parms, playerController), Z_Construct_UClass_APlayerController_NoRegister, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_positionToCheck = { "positionToCheck", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(GeneralUtilities_eventCheckIfPositionOnScreen_Parms, positionToCheck), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(nullptr, 0) };
+	void Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_ReturnValue_SetBit(void* Obj)
 	{
-		((GeneralUtilities_eventCheckIfPointOnScreen_Parms*)Obj)->ReturnValue = 1;
+		((GeneralUtilities_eventCheckIfPositionOnScreen_Parms*)Obj)->ReturnValue = 1;
 	}
-	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, sizeof(bool), sizeof(GeneralUtilities_eventCheckIfPointOnScreen_Parms), &Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::PropPointers[] = {
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_playerController,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_pointToCheck,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::NewProp_ReturnValue,
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, sizeof(bool), sizeof(GeneralUtilities_eventCheckIfPositionOnScreen_Parms), &Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_playerController,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_positionToCheck,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::NewProp_ReturnValue,
 	};
 #if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::Function_MetaDataParams[] = {
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::Function_MetaDataParams[] = {
 		{ "Category", "GeneralUtilities" },
-		{ "Comment", "/** \n\x09 * Checks if a specified 2D screen position is on the player's screen\n\x09 *\n\x09 * @param\x09\x09playerController\x09The controller for the player whose screen is supposed to be checked\n\x09 * @param\x09\x09pointToCheck\x09\x09The point to check whether it is on the player screen \n\x09 * @return\x09\x09true if the point is located on the player's screen\n\x09*/" },
+		{ "Comment", "/** \n\x09 * Checks if a specified world position is on the player's screen\n\x09 *\n\x09 * @param\x09\x09playerController\x09The controller for the player whose screen is supposed to be checked\n\x09 * @param\x09\x09positionToCheck\x09\x09The position to check whether it is on the player screen \n\x09 * @return\x09\x09true if the point is located on the player's screen\n\x09*/" },
 		{ "ModuleRelativePath", "Public/GeneralUtilities.h" },
-		{ "ToolTip", "Checks if a specified 2D screen position is on the player's screen\n\n@param               playerController        The controller for the player whose screen is supposed to be checked\n@param               pointToCheck            The point to check whether it is on the player screen\n@return              true if the point is located on the player's screen" },
+		{ "ToolTip", "Checks if a specified world position is on the player's screen\n\n@param               playerController        The controller for the player whose screen is supposed to be checked\n@param               positionToCheck         The position to check whether it is on the player screen\n@return              true if the point is located on the player's screen" },
 	};
 #endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGeneralUtilities, nullptr, "CheckIfPointOnScreen", nullptr, nullptr, sizeof(Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::GeneralUtilities_eventCheckIfPointOnScreen_Parms), Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14822401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen()
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGeneralUtilities, nullptr, "CheckIfPositionOnScreen", nullptr, nullptr, sizeof(Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::GeneralUtilities_eventCheckIfPositionOnScreen_Parms), Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14822401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen()
 	{
 		static UFunction* ReturnFunction = nullptr;
 		if (!ReturnFunction)
 		{
-			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen_Statics::FuncParams);
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -205,48 +196,6 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 		}
 		return ReturnFunction;
 	}
-	struct Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics
-	{
-		struct GeneralUtilities_eventIsActorOnScreen_Parms
-		{
-			AActor* actor;
-			bool ReturnValue;
-		};
-		static const UECodeGen_Private::FObjectPropertyParams NewProp_actor;
-		static void NewProp_ReturnValue_SetBit(void* Obj);
-		static const UECodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
-		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UECodeGen_Private::FFunctionParams FuncParams;
-	};
-	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_actor = { "actor", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(GeneralUtilities_eventIsActorOnScreen_Parms, actor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
-	void Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_ReturnValue_SetBit(void* Obj)
-	{
-		((GeneralUtilities_eventIsActorOnScreen_Parms*)Obj)->ReturnValue = 1;
-	}
-	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, sizeof(bool), sizeof(GeneralUtilities_eventIsActorOnScreen_Parms), &Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::PropPointers[] = {
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_actor,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::NewProp_ReturnValue,
-	};
-#if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::Function_MetaDataParams[] = {
-		{ "Category", "GeneralUtilities" },
-		{ "ModuleRelativePath", "Public/GeneralUtilities.h" },
-	};
-#endif
-	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGeneralUtilities, nullptr, "IsActorOnScreen", nullptr, nullptr, sizeof(Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::GeneralUtilities_eventIsActorOnScreen_Parms), Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
 	IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(UGeneralUtilities);
 	UClass* Z_Construct_UClass_UGeneralUtilities_NoRegister()
 	{
@@ -267,10 +216,9 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ResidentEvilTesting,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UGeneralUtilities_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UGeneralUtilities_CheckIfPointOnScreen, "CheckIfPointOnScreen" }, // 1692354906
+		{ &Z_Construct_UFunction_UGeneralUtilities_CheckIfPositionOnScreen, "CheckIfPositionOnScreen" }, // 1869691654
 		{ &Z_Construct_UFunction_UGeneralUtilities_FindClosestActor, "FindClosestActor" }, // 3880975478
 		{ &Z_Construct_UFunction_UGeneralUtilities_IsActorInFront, "IsActorInFront" }, // 2111551815
-		{ &Z_Construct_UFunction_UGeneralUtilities_IsActorOnScreen, "IsActorOnScreen" }, // 451773046
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGeneralUtilities_Statics::Class_MetaDataParams[] = {
@@ -311,15 +259,15 @@ void EmptyLinkFunctionForGeneratedCodeGeneralUtilities() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UGeneralUtilities);
 	UGeneralUtilities::~UGeneralUtilities() {}
-	struct Z_CompiledInDeferFile_FID_Users_fwenn_Github_Repositories_GameSampleProjects_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics
+	struct Z_CompiledInDeferFile_FID_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fwenn_Github_Repositories_GameSampleProjects_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UGeneralUtilities, UGeneralUtilities::StaticClass, TEXT("UGeneralUtilities"), &Z_Registration_Info_UClass_UGeneralUtilities, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGeneralUtilities), 820472301U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UGeneralUtilities, UGeneralUtilities::StaticClass, TEXT("UGeneralUtilities"), &Z_Registration_Info_UClass_UGeneralUtilities, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGeneralUtilities), 1358755466U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_fwenn_Github_Repositories_GameSampleProjects_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_869958920(TEXT("/Script/ResidentEvilTesting"),
-		Z_CompiledInDeferFile_FID_Users_fwenn_Github_Repositories_GameSampleProjects_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_fwenn_Github_Repositories_GameSampleProjects_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_2185886726(TEXT("/Script/ResidentEvilTesting"),
+		Z_CompiledInDeferFile_FID_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_ResidentEvilTesting_Source_ResidentEvilTesting_Public_GeneralUtilities_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

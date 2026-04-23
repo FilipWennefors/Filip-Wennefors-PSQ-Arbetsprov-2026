@@ -2,7 +2,7 @@
 	"BuildId": "23058290",
 	"Modules": 
 	{
-		"DrawBoxUtilityEditor": "UnrealEditor-DrawBoxUtilityEditor-0001.dll",
-		"DrawBoxUtilityRuntime": "UnrealEditor-DrawBoxUtilityRuntime-0001.dll"
+		"DrawBoxUtilityEditor": "UnrealEditor-DrawBoxUtilityEditor.dll",
+		"DrawBoxUtilityRuntime": "UnrealEditor-DrawBoxUtilityRuntime.dll"
 	}
 }

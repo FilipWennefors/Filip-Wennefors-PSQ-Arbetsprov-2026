@@ -13,22 +13,20 @@ bool UGeneralUtilities::IsActorInFront(AActor* actor, AActor* inFrontOfActor)
 	FTransform otherActorRelativeTransform = actorTransform.GetRelativeTransform(relativeToTransform);
 	return otherActorRelativeTransform.GetLocation().X >= 0.f;
 }
-
-bool UGeneralUtilities::IsActorOnScreen(AActor* actor)
-{
-	return false;
-}
-bool UGeneralUtilities::CheckIfPointOnScreen(APlayerController* playerController, FVector pointToCheck)
+bool UGeneralUtilities::CheckIfPositionOnScreen(APlayerController* playerController, FVector positionToCheck)
 {
 	FVector2D pointOnScreen;
 	FVector2D viewportSize = GEngine->GameViewport->Viewport->GetSizeXY();
-	playerController->ProjectWorldLocationToScreen(pointToCheck, pointOnScreen, true);
-	//If the point location on screen is not further than the viewport size, then it is on screen
-	//Likewhise if any of the points are 0, then it is not on screen
-	if (pointOnScreen.X > 0 && pointOnScreen.X < viewportSize.X && pointOnScreen.Y > 0 && pointOnScreen.Y < viewportSize.Y)
-		return true;
-	else
-		return false;	
+	if(playerController->ProjectWorldLocationToScreen(positionToCheck, pointOnScreen, true))
+	{
+		//If the point location on screen is not further than the viewport size, then it is on screen
+		//Likewhise if any of the points are 0, then it is not on screen
+		if (pointOnScreen.X > 0 && pointOnScreen.X < viewportSize.X && pointOnScreen.Y > 0 && pointOnScreen.Y < viewportSize.Y)
+			return true;
+		else
+			return false;
+	}
+	return false;
 }
 
 AActor* UGeneralUtilities::FindClosestActor(TArray<AActor*> actors, FVector closestTo)
