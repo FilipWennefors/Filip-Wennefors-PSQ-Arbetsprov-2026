@@ -4,54 +4,54 @@ C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\Resi
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\GeneralUtilities.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\ResidentEvilGameMode.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Spline.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CentralEnemyCommanderSubsystem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\BaseEnemy.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\BaseEnemyController.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CentralEnemyCommanderSubsystem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CombatEncounter.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\DamagableEnemyComponent.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\EnemyBaseWeapon.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\EPatrolType.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\FEnemyWeaponAnimations.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemyBoxCollider.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\FEnemyWeaponAnimations.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemyCapsuleCollider.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemyHitComponent.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemySphereCollider.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\EPatrolType.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\FEnemyCollisionCompParams.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemyHitComponent.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\AmmoItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\Interactable.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\InteractableObject.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\Item.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\ItemCrate.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\ItemPickup.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\KeyItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\NewInventoryItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\SpecialItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\TreasureItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\ETakedownType.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Pickup And Item Logic\KeyItem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\EWeaponState.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\ExtendedPlayerController.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\PlayerCharacter.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\PlayMontageOnPlayerWithCallbacks.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\PlayerCharacter.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Player Logic\Inventory Logic\PlayerInventorySubsystem.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\CutsceneDescription.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\ImageWidget.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\InGameHud.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\ItemActionButton.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\ItemActionsMenu.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\ItemActionButton.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\ItemIcon.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\EnemySpawner.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\Modal.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\PlayerInventory.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\TabMenuManager.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\TakedownInputIndicator.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\UnlockDoorMenu.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\WeaponWheel.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\WidgetUtilities.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\TakedownInputIndicator.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\TabMenuManager.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\AKnifeBaseClass.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\APrimaryWeaponsBaseClass.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Firearm.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\WidgetUtilities.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\FWeaponAnimations.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Pistol.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Knife.h
-C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\WeaponsBaseClass.h
 C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Shotgun.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\WeaponsBaseClass.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\EnemySpawner.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\CustomCollisions\EnemySphereCollider.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\UI Logic\WeaponWheel.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Knife.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Weapon Logic\Pistol.h
+C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public\Enemy Logic\DamagableEnemyComponent.h

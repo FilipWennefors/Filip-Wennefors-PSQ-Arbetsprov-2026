@@ -272,11 +272,6 @@ C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\Resi
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimGraph\UHT
-/I Editor\AnimGraph\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIGraph\UHT
-/I Editor\AIGraph\Classes
-/I Editor\AIGraph\Public
 /I C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Intermediate\Build\Win64\UnrealEditor\Inc\ResidentEvilTesting\UHT
 /I C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source
 /I C:\Users\fwenn\Documents\Github\Filip-Wennefors-PSQ-Arbetsprov-2026-testing\ResidentEvilTesting\Source\ResidentEvilTesting\Public

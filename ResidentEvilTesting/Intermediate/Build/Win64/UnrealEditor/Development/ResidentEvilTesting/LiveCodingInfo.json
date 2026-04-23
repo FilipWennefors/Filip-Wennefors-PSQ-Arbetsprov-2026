@@ -82,6 +82,7 @@
 			"EnemySpawner.cpp.obj",
 			"EPatrolType.cpp.obj",
 			"FEnemyWeaponAnimations.cpp.obj",
+			"GeneralUtilities.cpp.obj",
 			"AmmoItem.cpp.obj",
 			"Interactable.cpp.obj",
 			"InteractableObject.cpp.obj",
@@ -96,8 +97,7 @@
 			"EWeaponState.cpp.obj",
 			"ExtendedPlayerController.cpp.obj",
 			"PlayerInventorySubsystem.cpp.obj",
-			"PlayerCharacter.cpp.obj",
-			"GeneralUtilities.cpp.obj"
+			"PlayerCharacter.cpp.obj"
 		],
 		"Module.ResidentEvilTesting.4_of_4.cpp.obj": [
 			"PlayMontageOnPlayerWithCallbacks.cpp.obj",

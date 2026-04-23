@@ -8,9 +8,9 @@ public class ResidentEvilTesting : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AnimGraphRuntime", "AnimGraph", "MotionWarping", "AIModule", "AIGraph", "GameplayTasks", "GameplayTags"});
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AnimGraphRuntime", "MotionWarping", "AIModule", "GameplayTasks", "GameplayTags"});
 
-		PrivateDependencyModuleNames.AddRange(new string[] { "AnimGraphRuntime", "AnimGraph", "AIModule", "AIGraph", "GameplayTasks" });
+		PrivateDependencyModuleNames.AddRange(new string[] { "AnimGraphRuntime","AIModule", "GameplayTasks" });
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });

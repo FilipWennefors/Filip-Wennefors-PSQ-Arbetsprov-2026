@@ -2,8 +2,6 @@
 
 
 #include "Enemy Logic/BaseEnemy.h"
-
-#include "LandscapeHeightfieldCollisionComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/WidgetComponent.h"
 #include "Enemy Logic/BaseEnemyController.h"

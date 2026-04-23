@@ -31,6 +31,7 @@
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Enemy Logic/EnemySpawner.cpp"
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Enemy Logic/EPatrolType.cpp"
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Enemy Logic/FEnemyWeaponAnimations.cpp"
+#include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/GeneralUtilities.cpp"
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Pickup And Item Logic/AmmoItem.cpp"
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Pickup And Item Logic/Interactable.cpp"
 #include "C:/Users/fwenn/Documents/Github/Filip-Wennefors-PSQ-Arbetsprov-2026-testing/ResidentEvilTesting/Source/ResidentEvilTesting/Private/Pickup And Item Logic/InteractableObject.cpp"
